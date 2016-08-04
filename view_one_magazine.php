@@ -28,7 +28,8 @@
 		<div class="row">	
 			<!-- Magazin 1 -->
 			<div class="col-md-12 col-sm-12 col-xs-12 view_page_h">
-				<h3> Magazine Name </h3>
+				<h3 class="title"> Contact <span> Us </span>
+			</h3>
 				<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 			</p>
 					<br>

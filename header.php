@@ -49,7 +49,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 		<div class="header-left grid">
 			<div class="grid__item color-1 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s">
-				<h1><a href="index.html"><span class="link link--kukuri" data-letters="Magazine">Magazine</span></a></h1>
+				<h1><a href="index.php"><span class="link link--kukuri" ><img src="images/logo.jpg" width="200px" height="75px"></span></a></h1>
 			</div>
 		</div>
 		<div class="header-middle">
@@ -82,9 +82,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
 					  <ul class="nav navbar-nav menu__list">
 						<li class="active menu__item menu__item--current"><a class="menu__link" href="index.php">Home <span class="sr-only">(current)</span></a></li>
-						<li class=" menu__item"><a class="menu__link" href="this_month_magazine.php">This Month</a></li>
+						<li class=" menu__item"><a class="menu__link" href="latest_magazine.php">This Month</a></li>
 						<li class=" menu__item"><a class="menu__link" href="gallery.php">Gallery</a></li>
-						<li class=" menu__item"><a class="menu__link" href="full_magazine.php"> Full Magazine </a></li>
+						<li class=" menu__item"><a class="menu__link" href="previews_magazine.php"> Previews Magazine </a></li>
 						<li class=" menu__item"><a class="menu__link" href="contact_us.php">contact</a></li>
 						<li class=" menu__item"><a class="menu__link" href="#" data-toggle="modal" data-target="#myModal">Login</a></li>
 					  </ul>
