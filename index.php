@@ -24,7 +24,7 @@
 						<h4>The Life of Jesus</h4></a>
 						<p>Sed ut perspiciatis unde omnis iste natus error sit 
 						 
-						<a href=view_one_magazine.php"> Read More</a></p>
+						<a href="view_one_magazine.php"> Read More</a></p>
 					</div>
 					<div class="clearfix"></div>
 				</div>

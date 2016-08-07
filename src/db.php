@@ -85,6 +85,29 @@ class SafeDb{
 		}
 	}
 
+	function insert($table,$data){
+		if(is_array($data) AND sizeof($data)>0){
+			$query = sprintf("INSERT INTO %s SET ",$table);
+			$i=0;
+			foreach ($data as $key => $value) {
+				if($i==0){
+					$query .= sprintf("%s='%s'",$key,$value);
+				} else {
+					$query .= sprintf(",%s='%s'",$key,$value);
+				}
+				$i++;
+			}
+			if(mysqli_query($this->link,$query)){
+				//$this->error .= '----'.$query;
+			} else {
+				$this->error = mysqli_error($this->link).'-'.$query;
+			}
+		} else {
+			$this->error = "Invalid parameters";
+			return false;
+		}
+	}
+
 	function get_link(){
 		return $this->link;
 	}
