@@ -1,4 +1,4 @@
-
+<?php require_once 'check_session.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -86,7 +86,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li class=" menu__item"><a class="menu__link" href="gallery.php">Gallery</a></li>
 						<li class=" menu__item"><a class="menu__link" href="previews_magazine.php"> Previews Magazine </a></li>
 						<li class=" menu__item"><a class="menu__link" href="contact_us.php">contact</a></li>
-						<li class=" menu__item"><a class="menu__link" href="#" data-toggle="modal" data-target="#myModal">Login</a></li>
+						<?php if(isset($_SESSION['auth'])){
+							?>
+								<li class=" menu__item"><a class="menu__link">Greetings <?= $_SESSION['auth']->get_name(); ?>!!</a></li>
+							<?php
+						} else {
+							?>
+								<li class=" menu__item"><a class="menu__link" href="#" data-toggle="modal" data-target="#myModal">Login</a></li>
+							<?php
+						}
+						?>
 					  </ul>
 					</div>
 					<!-- Modal -->
@@ -100,13 +109,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <h4 class="modal-title">Login Form</h4>
             </div>
             <br>
+            <form action="login.php" method="post">
                 <!--div class="bg-danger text-center" id="success-message" style="padding: 10px; margin: 10px;"></div-->
             <div class="row">
                 <div class="form-group col-md-12">
                     <div class="col-md-1"></div>
                     <label class="col-md-3 control-lable" for="username">User Name<span class="imp">*</span></label>
                     <div class="col-md-7">
-                        <input type="text" name="username" id="username" placeholder="User Name"  class="form-control input-sm"/>
+                        <input type="text" name="username" id="username" placeholder="User Name"  class="form-control input-sm" required/>
                     </div>
                 </div>
             </div>
@@ -115,14 +125,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <div class="col-md-1"></div>
                     <label class="col-md-3 control-lable" for="password">Password<span class="imp">*</span></label>
                     <div class="col-md-7">
-                        <input type="password" name="password" id="password" placeholder="Password" class="form-control input-sm"/>
+                        <input type="password" name="password" id="password" placeholder="Password" class="form-control input-sm" required/>
                     </div>
                 </div>
             </div>
 			
             <div class="modal-footer"><span class="fls"> <a href="#">New Register</a> </span>
-                <button type="button" onclick="forgot()" class="btn btn-primary btn-lg">Login</button>
-            </div>
+                <input type="submit" class="btn btn-primary btn-lg" value="LOGIN">
+            </div>            
+        </form>
         </div>
 
     </div>
