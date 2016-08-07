@@ -1,8 +1,8 @@
 <?php
 	session_start();
 	if(isset($_POST)){
-		require_once "db.php";
-		require_once "session.php";		
+		require_once "src/db.php";
+		require_once "src/session.php";		
 		$db = new SafeDb();
 		$username = mysqli_real_escape_string($db->get_link(),$_POST['username']);
 		$password = $_POST['password'];
