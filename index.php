@@ -4,9 +4,9 @@
 <div class="content-bott">
 	<div class="container">
 		<h3 class="title wow flipInX" >Latest <span> Magazine</span></h3>
-		<div class="col-md-4 services-grid wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s">
+				<div class="col-md-4 services-grid wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s">
 					<div class="services-left">
-						<img class="img-responsive" src="images/front_page.jpg" alt=" "/>
+						<img class="img-responsive" src="images/pic4.jpg" alt=" "/>
 					</div>
 					 <div class="services-right"><a href="view_one_magazine.php">
 						<h4>Why did Jesus have to die?</h4></a>
@@ -18,7 +18,7 @@
 				</div>
 				<div class="col-md-4 services-grid wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s">
 					<div class="services-left">
-						<img class="img-responsive" src="images/front_page.jpg" alt=" "/>
+						<img class="img-responsive" src="images/pic5.jpg" alt=" "/>
 					</div>
 					<div class="services-right"><a href="view_one_magazine.php">
 						<h4>The Life of Jesus</h4></a>
@@ -30,7 +30,7 @@
 				</div>
 				<div class="col-md-4 services-grid wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s">
 					<div class="services-left">
-						<img class="img-responsive" src="images/front_page.jpg" alt=" "/>
+						<img class="img-responsive" src="images/pic6.jpg" alt=" "/>
 					</div>
 					<div class="services-right"><a href="view_one_magazine.php">
 						<h4>Bill O'Reilly Killing Jesus</h4></a>
@@ -42,19 +42,19 @@
 				</div>
 				<div class="col-md-4 services-grid wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s">
 					<div class="services-left">
-						<img class="img-responsive" src="images/front_page.jpg" alt=" "/>
+						<img class="img-responsive" src="images/pic7.jpg" alt=" "/>
 					</div>
 					<div class="services-right"><a href="view_one_magazine.php">
-						<h4>Jesus</h4></a>
+						<h4>Man of Histry (Jesus)</h4></a>
 						<p>Sed ut perspiciatis unde omnis iste natus error sit 
-						 
-						<a href="view_one_magazine.php"> Read More</a></p>
+						voluptatem accusantium doloremque 
+							<a href="view_one_magazine.php"> Read More</a>	</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="col-md-4 services-grid wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s">
 					<div class="services-left">
-						<img class="img-responsive" src="images/front_page.jpg" alt=" "/>
+						<img class="img-responsive" src="images/pic8.jpg" alt=" "/>
 					</div>
 					<div class="services-right"><a href="view_one_magazine.php">
 						<h4>Man of Histry (Jesus)</h4></a>
@@ -69,13 +69,14 @@
 						<img class="img-responsive" src="images/pic9.jpg" alt=" "/>
 					</div>
 					<div class="services-right"><a href="view_one_magazine.php">
-						<h4>Foes Jesus Care?</h4></a>
+						<h4>Man of Histry (Jesus)</h4></a>
 						<p>Sed ut perspiciatis unde omnis iste natus error sit 
-						voluptatem accusantium doloremque  
-						<a href="view_one_magazine.php"> Read More</a></p>
+						voluptatem accusantium doloremque 
+							<a href="view_one_magazine.php"> Read More</a>	</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
+				
 				<div class="clearfix"></div>
 	</div>
 </div>

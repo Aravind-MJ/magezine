@@ -17,9 +17,9 @@
 	  <div class="gallery-main">
 		<div class="gallery-bott">
 			<div class="col-md-4 col1 gallery-grid">
-				    <a href="images/b1.jpg" class="b-link-stripe b-animate-go  thickbox" rel="title">
+				    <a href="reader/pages/1.jpg" class="b-link-stripe b-animate-go  thickbox" rel="title">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b1.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/1.jpg" alt="">
 							<figcaption>
 								<h4 class="gal"> Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -28,9 +28,9 @@
 					</a>
 					</div>
 					<div class="col-md-4 col1 gallery-grid">
-						<a href="images/b2.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="reader/pages/2.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b2.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/2.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -39,9 +39,9 @@
 						</a>
 					</div>
 					<div class="col-md-4 col1 gallery-grid">
-						<a href="images/b3.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="reader/pages/3.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b3.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/3.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -50,9 +50,9 @@
 						</a>
 					</div>
 			     <div class="col-md-4 col1 gallery-grid">
-				  <a href="images/b4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+				  <a href="reader/pages/4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b4.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/4.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -61,9 +61,9 @@
 					</a>
 					</div>
 					<div class="col-md-4 col1 gallery-grid">
-						<a href="images/b5.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="reader/pages/5.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b5.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/5.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -72,9 +72,9 @@
 						</a>
 					</div>
 					<div class="col-md-4 col1 gallery-grid">
-						<a href="images/b6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="reader/pages/6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b6.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/6.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -83,9 +83,9 @@
 						</a>
 					</div>
 					<div class="col-md-4 col1 gallery-grid">
-						<a href="images/b7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="reader/pages/7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b7.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/7.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -94,9 +94,9 @@
 						</a>
 					</div>
 					<div class="col-md-4 col1 gallery-grid">
-						<a href="images/b8.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="reader/pages/8.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b8.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/8.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
@@ -105,9 +105,9 @@
 						</a>
 					</div>
 					<div class="col-md-4 col1 gallery-grid">
-						<a href="images/b7.jpg"  rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<a href="reader/pages/9.jpg"  rel="title" class="b-link-stripe b-animate-go  thickbox">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="images/b7.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/9.jpg" alt="">
 							<figcaption>
 								<h4 class="gal">Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	
