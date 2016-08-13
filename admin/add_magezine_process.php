@@ -4,7 +4,8 @@ if ($_POST) {
     include_once 'check_session.php';
     $name = $_POST['magezine'];
     $month = $_POST['month'];
-    $year = $_POST['year'];    
+    $year = $_POST['year'];
+    $description = $_POST['description'];
     
     $count = sizeof($_FILES['images']['name']);
 
@@ -20,6 +21,7 @@ if ($_POST) {
             'name' => $name,
             'month' => $month,
             'year' => $year,
+            'description'=>$description,
             'pages' => $count
         ));
     } else {
