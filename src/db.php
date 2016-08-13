@@ -75,9 +75,10 @@ class SafeDb{
 				$query .= sprintf(' WHERE %s',$condition);	
 			}
 			if(mysqli_query($this->link,$query)){
-				//$this->error .= '----'.$query;
+				return true;
 			} else {
 				$this->error = mysqli_error($this->link).'-'.$query;
+                                return false;
 			}
 		} else {
 			$this->error = "Invalid parameters";
@@ -98,9 +99,10 @@ class SafeDb{
 				$i++;
 			}
 			if(mysqli_query($this->link,$query)){
-				//$this->error .= '----'.$query;
+				return true;
 			} else {
 				$this->error = mysqli_error($this->link).'-'.$query;
+                                return false;
 			}
 		} else {
 			$this->error = "Invalid parameters";

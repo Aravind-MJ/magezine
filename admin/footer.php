@@ -42,6 +42,8 @@
     <script src="dist/js/app.min.js"></script>
     <!-- AdminLTE for demo purposes -->
     <script src="dist/js/demo.js"></script>
+    <!--SELECT 2 -->
+    <script src="plugins/select2/select2.min.js"></script>
     <!-- page script -->
     <script>
       $(function () {
@@ -59,6 +61,12 @@
           radioClass: 'iradio_flat-green'
         });
       });
+
+      $('#magezine').select2({
+        tags:true
+      });
+      $('#month').select2();
+      $('#year').select2();
     </script>
   </body>
 </html>
