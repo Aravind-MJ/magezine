@@ -60,6 +60,10 @@
             </select> 
         </div>
         <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <label>Description</label>
+            <textarea name="description"></textarea>
+        </div>
+        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <label>Select Images</label>
             <input type="file" id="images" name="images[]" multiple accept="image/jpeg">
         </div>
