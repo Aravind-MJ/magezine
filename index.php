@@ -314,7 +314,7 @@
 			</div>
 		<div class="col-sm-12 col-md-12 col-lg-12 center_heading">
 		<span class="btn11">
-				<a class="hvr-rectangle-out" href="view_one_magazine.php">View More</a></span> 
+				<a class="hvr-rectangle-out" href="this_month_magazine.php">View More</a></span> 
 		</div>
 		</div></div>
 <!--div class="content">

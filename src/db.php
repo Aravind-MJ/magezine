@@ -2,7 +2,7 @@
 class SafeDb{
 	private $host = 'localhost';
 	private $user = 'root';
-	private $password = 'admin';
+	private $password = '';
 	private $database = 'magezine';
 	private $link;
 	public $error;

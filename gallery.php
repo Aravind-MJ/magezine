@@ -19,7 +19,8 @@
 			<div class="col-md-4 col1 gallery-grid">
 				    <a href="reader/pages/1.jpg" class="b-link-stripe b-animate-go  thickbox" rel="title">
 						<figure class="effect-bubba">
-							<img class="img-responsive" src="reader/pages/1.jpg" alt="">
+							<img class="img-responsive" src="reader/pages/1.jpg" alt="" In sit amet sapien eros Integer dolore magna aliqua >
+							
 							<figcaption>
 								<h4 class="gal"> Nemo voluptatem</h4>
 								<p class="gal1">In sit amet sapien eros Integer dolore magna aliqua</p>	

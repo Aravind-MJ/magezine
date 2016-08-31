@@ -28,7 +28,7 @@
 		<div class="row">	
 			<!-- Magazin 1 -->
 			<div class="col-md-12 col-sm-12 col-xs-12 view_page_h">
-				<h3 class="title"> Contact <span> Us </span>
+				<h3 class="title">Name of <span>Magezine </span>
 			</h3>
 				<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 			</p>
@@ -64,9 +64,9 @@
 				<div class="col-md-3 col-sm-6 bottom-gds">
 					<div class="bott-img">
 								<div class="icon-holder">
-									<span><img  src="images/team2.jpg" alt=""></span>
+									<span><img  src="images/mohanc.jpg" alt=""></span>
 								</div>
-								<h4 class="mission">Thompson</h4>
+								<h4 class="mission">Mohan C Lazarus</h4>
 								<div class="description">
 									<ul>
 										<li class="hvr-rectangle-out"><a class="fb" href="#"></a></li>
@@ -79,9 +79,9 @@
 				<div class="col-md-3 col-sm-6 bottom-gds ">
 					<div class="bott-img">
 								<div class="icon-holder">
-									<span><img  src="images/team2.jpg" alt=""></span>
+									<span><img  src="images/vincent.jpg" alt=""></span>
 								</div>
-								<h4 class="mission">Thompson</h4>
+								<h4 class="mission">Vincent Selvakumar</h4>
 								<div class="description">
 									<ul>
 										<li class="hvr-rectangle-out"><a class="fb" href="#"></a></li>
@@ -95,9 +95,9 @@
 				<div class="col-md-3 col-sm-6 bottom-gds ">
 					<div class="bott-img">
 								<div class="icon-holder">
-									<span><img  src="images/team3.jpg" alt=""></span>
+									<span><img  src="images/mohanc.jpg" alt=""></span>
 								</div>
-								<h4 class="mission">Federica</h4>
+								<h4 class="mission">Mohan C Lazarus</h4>
 								<div class="description">
 									<ul>
 										<li class="hvr-rectangle-out"><a class="fb" href="#"></a></li>
@@ -111,9 +111,9 @@
 				<div class="col-md-3 col-sm-6 bottom-gds ">
 					<div class="bott-img">
 								<div class="icon-holder">
-									<span><img  src="images/team3.jpg" alt=""></span>
+									<span><img  src="images/vincent.jpg" alt=""></span>
 								</div>
-								<h4 class="mission">Federica</h4>
+								<h4 class="mission">Vincent Selvakumar</h4>
 								<div class="description">
 									<ul>
 										<li class="hvr-rectangle-out"><a class="fb" href="#"></a></li>

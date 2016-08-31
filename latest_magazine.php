@@ -4,6 +4,8 @@
 	<!--month_magazine1-->
 	<div class="month_magazine1" id="month_magazine1">
 		<div class="container">
+		<h3 class="title">Latest <span> Magazines</span>
+			</h3>
 			<div class="month_magazine1-row">
 				<div class="col-md-3 month_magazine1-grids">
 					<div class="month_magazine1-img">
@@ -11,7 +13,6 @@
 						<div class="captn">
 							<a href="view_one_magazine.php"> <p><span class="title_magazine1"> Full Name of the Magazine Lorem ipsum dolor sit amet, consectetur adipiscing elit </span><br></p><br>
 							<span>
-							
 									<img src="images/read.png">
 								</span></a>
 								<div class="social-icons">
@@ -23,10 +24,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="month_head_dir">
-					<h4>Michael Amet vincent kumar</h4>
+					<h4>Michael Amet</h4>
 					<h6>CEO-Founder</h6>
-					</div>
 				</div>
 				<div class="col-md-3 month_magazine1-grids">
 					<div class="month_magazine1-img">
@@ -44,9 +43,9 @@
 								
 							</div>
 						</div>
-					</div><div class="month_head_dir">
+					</div>
 					<h4>Michael Amet</h4>
-					<h6>CEO-Founder</h6></div>
+					<h6>CEO-Founder</h6>
 				</div>
 			<div class="col-md-3 month_magazine1-grids">
 					<div class="month_magazine1-img">
@@ -64,9 +63,9 @@
 								
 							</div>
 						</div>
-					</div><div class="month_head_dir">
+					</div>
 					<h4>Michael Amet</h4>
-					<h6>CEO-Founder</h6></div>
+					<h6>CEO-Founder</h6>
 				</div>
 				<div class="col-md-3 month_magazine1-grids">
 					<div class="month_magazine1-img">
@@ -84,9 +83,9 @@
 								
 							</div>
 						</div>
-					</div><div class="month_head_dir">
+					</div>
 					<h4>Michael Amet</h4>
-					<h6>CEO-Founder</h6></div>
+					<h6>CEO-Founder</h6>
 				</div>
 				<div class="col-md-3 month_magazine1-grids">
 					<div class="month_magazine1-img">
